@@ -1,1 +1,1 @@
-# Huggnig-Face---NLP-Course
+# HuggingFace---NLP Course
